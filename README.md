@@ -19,7 +19,7 @@ We'll build the database by optimizing the tables around efficient reads for com
 * Dimensions tables: songs, artist, users, time
 
 
-![Entity Relationship](/images/sparkify_entity_relationship_postgresql.png)
+![sparkify_entity_relationship_postgresql](https://user-images.githubusercontent.com/6285945/75607578-9975c480-5b1e-11ea-9439-97d90c05d6ce.PNG)
 
 
 The three most important advantages of using Star schema are:
